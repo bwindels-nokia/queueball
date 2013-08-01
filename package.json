@@ -1,0 +1,10 @@
+{
+  "name": "queueball",
+  "version": "0.0.1",
+  "author": "Bruno Windels <bruno.windels@nokia.com>",
+  "description": "A background processing job queue",
+  "main": "./lib/index.js",
+  "dependencies" : {
+      "trycatch"   :  "0.0.x"
+  }
+}
